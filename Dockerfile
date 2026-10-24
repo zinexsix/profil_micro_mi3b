@@ -1,3 +1,3 @@
 FROM nginx
-LABEL maintainer="udarizki2020@gmail.com"
+LABEL maintainer="latifkhairul1603@gm.com"
 COPY . /usr/share/nginx/html
